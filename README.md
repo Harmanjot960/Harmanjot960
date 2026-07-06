@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Harmanjot 👋
 
-<!--
-**Harmanjot960/Harmanjot960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SOC Analyst Portfolio
+I am an aspiring SOC Analyst building hands-on cybersecurity experience through practical investigations in a home lab.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Splunk Enterprise
+- Splunk Universal Forwarder
+- Sysmon
+- Windows Event Logs
+- Windows Security Logs
+- MITRE ATT&CK
+- PowerShell
+- Incident Investigation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Home SOC Lab
+Current Lab Environment:
+- Windows 10 Virtual Machine
+- Splunk Enterprise (Host Machine)
+- Sysmon
+- Splunk Universal Forwarder
+- Custom SPL Queries
+- Attack Simulation
+
+## Featured Projects
+- SOC Home Lab *(In Progress)*
+- Phishing Investigation *(Coming Soon)*
+- PowerShell Attack Investigation *(Coming Soon)*
+- Brute Force Detection *(Coming Soon)*
+- Ransomware Investigation *(Coming Soon)*
+- Incident Response Investigation *(Coming Soon)*
+
+## Current Goal
+Build a practical SOC Analyst portfolio demonstrating:
+- Log Analysis
+- Threat Hunting
+- SIEM Investigation
+- Incident Response
+- Attack Detection
+---
+Thanks for visiting my profile!
+
