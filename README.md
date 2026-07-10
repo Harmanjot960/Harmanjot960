@@ -34,14 +34,13 @@ A Windows-based SOC home lab built with Splunk Enterprise, Sysmon, and the Splun
 
 A collection of documented security investigations completed using hands-on training platforms and publicly available security datasets. Each project follows a structured SOC investigation workflow, including evidence collection, timeline analysis, IOC extraction, MITRE ATT&CK mapping, SPL queries (where applicable), and incident reporting.
 
-**Planned Investigations**
+**Featured Projects**
 
-* Phishing Investigation
-* PowerShell Attack Investigation
-* Brute Force Detection
-* Malware Investigation
-* Windows Endpoint Investigation
-* Incident Response Investigation
+* Phishing Investigation (Link)
+* PowerShell Attack Investigation (Link)
+* Brute Force Detection (Link)
+* Malware Investigation (Link)
+* Incident Response Investigation (Link)
 
 ## Current Goal
 
